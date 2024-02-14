@@ -5,6 +5,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/patryk-kociol/
 - ⚡ Fun fact: I know how to escape vim :q
 
+- Check out my gitst here: https://gist.github.com/PatPalCoder
+
 <!---
 PatPalCoder/PatPalCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
